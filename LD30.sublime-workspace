@@ -1,0 +1,870 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"members	Array<flixel.addons.weapon.FlxBullet>"
+			],
+			[
+				"set",
+				"setBulletOffset(...)	Void"
+			],
+			[
+				"ge",
+				"getSuperClass(...)	Class<Dynamic>"
+			],
+			[
+				"Flxg",
+				"FlxGroup	class"
+			],
+			[
+				"get",
+				"getClassName(...)	String"
+			],
+			[
+				"for",
+				"forEach(...)	Unknown<0>"
+			],
+			[
+				"se",
+				"setAll(...)	Void"
+			],
+			[
+				"fo",
+				"forEachDead(...)	Unknown<2>"
+			],
+			[
+				"gun",
+				"gun	var"
+			],
+			[
+				"set_",
+				"set_alive( Value : Bool )	Bool"
+			],
+			[
+				"swi",
+				"switchColors	function"
+			],
+			[
+				"KEYMODE_",
+				"KEYMODE_RELEASED	Int"
+			],
+			[
+				"ke",
+				"KEYMODE_JUST_DOWN	Int"
+			],
+			[
+				"setc",
+				"setCustomKeys(...)	Void"
+			],
+			[
+				"pl",
+				"play(...)	flixel.system.FlxSound"
+			],
+			[
+				"Flxr",
+				"FlxRandom	flixel.util"
+			],
+			[
+				"onsound",
+				"onPreFireSound	flixel.system.FlxSound"
+			],
+			[
+				"onf",
+				"onFireSound	flixel.system.FlxSound"
+			],
+			[
+				"move",
+				"MOVEMENT_INSTANT	Int"
+			],
+			[
+				"FLXCON",
+				"FlxControlHandler	flixel.addons.plugin.control"
+			],
+			[
+				"setbu",
+				"setBulletBounds(...)	Void"
+			],
+			[
+				"setfire",
+				"setFireRate( Rate : Int )	Void"
+			],
+			[
+				"Flx",
+				"FlxBullet	class"
+			],
+			[
+				"max",
+				"maxVelocity	flixel.util.FlxPoint"
+			],
+			[
+				"any",
+				"anyJustPressed(...)	Bool"
+			],
+			[
+				"a",
+				"anyJustReleased(...)	Bool"
+			],
+			[
+				"st",
+				"String	class"
+			],
+			[
+				"tile",
+				"FlxTilemap"
+			],
+			[
+				"s",
+				"steel()	Unknown<4>"
+			],
+			[
+				"crea",
+				"createRectangularBody(...)	Void"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"hi",
+				"highNames"
+			],
+			[
+				"else",
+				"else"
+			],
+			[
+				"high",
+				"highNames"
+			],
+			[
+				"hig",
+				"highScores"
+			],
+			[
+				"score",
+				"scoreSave	var"
+			],
+			[
+				"la",
+				"nameLabel	flixel.text.FlxText"
+			],
+			[
+				"Flxte",
+				"FlxTextField	flixel.text"
+			],
+			[
+				"flxtext",
+				"FlxTextField	flixel.text"
+			],
+			[
+				"sl",
+				"FlxSlider	class"
+			],
+			[
+				"slide",
+				"FlxUISlider	flixel.addons.ui"
+			],
+			[
+				"tex",
+				"FlxText"
+			],
+			[
+				"sub",
+				"openSubState(...)	Void"
+			],
+			[
+				"re",
+				"resetState()	Void"
+			],
+			[
+				"stat",
+				"state	flixel.FlxState"
+			],
+			[
+				"j",
+				"justReleased	Bool"
+			],
+			[
+				"jus",
+				"justReleased	flixel.input.keyboard.FlxKeyList"
+			],
+			[
+				"form",
+				"setFormat(...)	flixel.text.FlxText"
+			],
+			[
+				"box",
+				"updateHitbox()	Void"
+			],
+			[
+				"FlxPoin",
+				"FlxPoint	flixel.util"
+			],
+			[
+				"TexturePackerDat",
+				"TexturePackerData	flixel.util.loaders"
+			],
+			[
+				"w",
+				"width	Int"
+			],
+			[
+				"BORDER_OUTLINE",
+				"BORDER_OUTLINE_FAST	Int"
+			],
+			[
+				"on",
+				"onLeave()	Void"
+			],
+			[
+				"o",
+				"onLeave()	Void"
+			],
+			[
+				"onH",
+				"onHover()	Void"
+			],
+			[
+				"FlxCol",
+				"FlxColor	flixel.util"
+			],
+			[
+				"borderS",
+				"borderStyle	Int"
+			],
+			[
+				"aa",
+				"antialiasing	Bool"
+			],
+			[
+				"scoreT",
+				"scoreText	var"
+			],
+			[
+				"scor",
+				"scoreText	var"
+			],
+			[
+				"or",
+				"centerOrigin()	Void"
+			],
+			[
+				"bou",
+				"inWorldBounds()	Bool"
+			],
+			[
+				"hol",
+				"holeSize	var"
+			],
+			[
+				"pipe",
+				"pipeCap2	var"
+			],
+			[
+				"pip",
+				"pipeCap1	var"
+			],
+			[
+				"upda",
+				"updateHitbox()	Void"
+			],
+			[
+				"Pl",
+				"PlayState	class"
+			],
+			[
+				"pi",
+				"pipeCap2	var"
+			],
+			[
+				"he",
+				"height	Float"
+			],
+			[
+				"fli",
+				"flipY	Bool"
+			],
+			[
+				"ho",
+				"holeSize	var"
+			],
+			[
+				"FlxR",
+				"FlxRandom	flixel.util"
+			],
+			[
+				"ra",
+				"floatRanged(...)	Float"
+			],
+			[
+				"gro",
+				"groundHeight	var"
+			],
+			[
+				"rese",
+				"resetSizeFromFrame()	Void"
+			],
+			[
+				"i",
+				"int( x : Float )	Int"
+			],
+			[
+				"coll",
+				"collided( bird : flixel.FlxSprite )	Bool"
+			],
+			[
+				"Flo",
+				"follow(...)	Void"
+			],
+			[
+				"fllo",
+				"follow(...)	Void"
+			],
+			[
+				"lo",
+				"loadGraphicFromTexture(...)	flixel.FlxSprite"
+			],
+			[
+				"ata",
+				"atan2( y : Float , x : Float )	Float"
+			],
+			[
+				"STYLE",
+				"STYLE_TOPDOWN	Int"
+			],
+			[
+				"add",
+				"addByNames(...)	Void"
+			],
+			[
+				"FlxT",
+				"FlxText	flixel.text"
+			],
+			[
+				"p",
+				"push( x : flixel.text.FlxText )	Int"
+			],
+			[
+				"Flxt",
+				"FlxText	flixel.text"
+			],
+			[
+				"int",
+				"Int	class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/PlayState.hx",
+			"settings":
+			{
+				"buffer_size": 2021,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/Enemy.hx",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/Player.hx",
+			"settings":
+			{
+				"buffer_size": 304,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/Entity.hx",
+			"settings":
+			{
+				"buffer_size": 1822,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"xiki",
+				"Set Syntax: Xiki"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"gig",
+				"Gitignore: New gitignore"
+			],
+			[
+				"git",
+				"Gitignore: New gitignore"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"colorCo",
+				"Tweak Colorcode to current color scheme"
+			],
+			[
+				"packac",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/eric/prog/proj/mine/LD30/source/Reg.hx",
+		"/home/eric/prog/proj/mine/LD30/source/PlayState.hx",
+		"/home/eric/prog/proj/mine/LD30/Project.xml",
+		"/home/eric/prog/proj/mine/FlixelBird/source/Pipes.hx",
+		"/usr/lib/haxe/lib/flixel-addons/1,1,0/flixel/addons/weapon/FlxBullet.hx",
+		"/home/eric/prog/proj/mine/LD30/LD30.sublime-project",
+		"/home/eric/prog/proj/mine/LD30/source/_PlayState.hx",
+		"/home/eric/prog/proj/mine/LD30/source/Main.hx",
+		"/home/eric/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/eric/prog/proj/mine/LD30/source/MenuState.hx",
+		"/home/eric/prog/proj/mine/FlixarioBros/source/PlayState.hx",
+		"/home/eric/prog/proj/mine/FlixarioBros/assets/data/level",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/Platformers/EZPlatformer/source/PlayState.hx",
+		"/home/eric/prog/proj/mine/FlixarioBros/FlixarioBros.sublime-project",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/Flixel Features/FlxNape/source/states/Piramid.hx",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/Flixel Features/FlxNape/source/states/Balls.hx",
+		"/home/eric/prog/proj/mine/FlixelBird/source/PlayState.hx",
+		"/home/eric/prog/proj/mine/FllixelBird",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/Flixel Features/FlxNape/project.xml",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/Flixel Features/FlxNape/FlxNape.hxproj",
+		"/home/eric/prog/proj/mine/FlixarioBros/Project.xml",
+		"/home/eric/prog/proj/mine/FlixarioBros/export/linux64/cpp/obj/include/zpp_nape/util/ZNPList_RayResult.h",
+		"/home/eric/prog/proj/mine/FlixarioBros/export/linux64/cpp/obj/include/openfl/utils/IMemoryRange.h",
+		"/home/eric/prog/proj/mine/FlixarioBros/export/linux64/cpp/obj/include/nape/phys/GravMassMode.h",
+		"/home/eric/prog/proj/mine/FlixarioBros/export/linux64/cpp/obj/include/flixel/system/scaleModes/RatioScaleMode.h",
+		"/home/eric/prog/proj/mine/FlixarioBros/FlixarioBros",
+		"/home/eric/prog/proj/mine/FlixarioBros/FlixarioBors",
+		"/home/eric/prog/proj/mine/FlixarioBros/source/MenuState.hx",
+		"/home/eric/prog/proj/mine/FlixarioBros/source/OptionsMenu.hx",
+		"/home/eric/prog/proj/mine/FlixarioBros/source/Main.hx",
+		"/home/eric/Desktop/LicenseInfoDialog.java",
+		"/home/eric/Desktop/flowjo.src/com/treestar/lib/labarchives/ui/EntryTreeChooserComponent.java",
+		"/home/eric/Desktop/flowjo.src/com/treestar/lib/gui/text/Constants.java",
+		"/home/eric/Desktop/flowjo.src/com/treestar/lib/gui/swing/RangedDoubleDocument.java",
+		"/home/eric/Desktop/flowjo.src/com/treestar/lib/gui/text/AlignmentComponent.java",
+		"/home/eric/Desktop/flowjo.src/com/treestar/lib/gui/swing/DoubleDocument.java",
+		"/home/eric/Desktop/flowjo.src/com/treestar/lib/gui/poweredit/PowerEdit.java",
+		"/home/eric/Desktop/flowjo.src/com/treestar/lib/gui/color/ColorEditor.java",
+		"/home/eric/Desktop/flowjo.src/com/treestar/lib/data/StringUtil.java",
+		"/home/eric/prog/proj/mine/FlixarioBros/export/linux64/cpp/obj/include/flixel/tweens/motion/QuadMotion.h",
+		"/home/eric/prog/proj/mine/FlixarioBros/export/linux64/cpp/obj/include/openfl/utils/Float32Array.h",
+		"/home/eric/Desktop/flowjo.src/com/treestar/lib/parsing/chineseDictionaryFixer.java",
+		"/home/eric/Desktop/flowjo.src/com/treestar/lib/parsing/TextToFCS.java",
+		"/home/eric/Desktop/flowjo.src/com/treestar/lib/parsing/UsedStringIdentifier.java",
+		"/home/eric/prog/proj/mine/FlixarioBros/export/linux64/cpp/obj/include/Xml.h",
+		"/home/eric/Brandon Sanderson/Mistborn_ The Final Empire/Mistborn The Final Empire - Brandon Sanderson/style.css",
+		"/home/eric/Brandon Sanderson/Mistborn_ The Final Empire/Mistborn The Final Empire - Brandon Sanderson/index.html",
+		"/home/eric/Brandon Sanderson/Mistborn_ The Final Empire/Mistborn_ The Final Empire - Brandon Sanderson.htmlz_FILES/style.css",
+		"/home/eric/prog/proj/mine/FlxNape/source/Main.hx",
+		"/home/eric/prog/proj/mine/FlxNape/source/states/Pixelizer.hx",
+		"/home/eric/prog/proj/mine/FlxNape/source/states/SolarSystem.hx",
+		"/home/eric/prog/proj/mine/FlxNape/source/states/Piramid.hx",
+		"/home/eric/prog/proj/mine/FlxNape/source/states/Cutup.hx",
+		"/home/eric/prog/proj/mine/FlxNape/source/states/Blob.hx",
+		"/home/eric/prog/proj/mine/FlixelBird/source/GameoverScreen.hx",
+		"/home/eric/prog/proj/mine/FlixelBird/README.md",
+		"/home/eric/prog/proj/mine/FlixelBird/.gitignore",
+		"/tmp/jrnlhkNv7w",
+		"/home/eric/prog/proj/mine/FlixelBird/source/OptionsMenu.hx",
+		"/home/eric/prog/proj/mine/FlixelBird/assets/data/highscores.txt",
+		"/home/eric/prog/proj/mine/FlixelBird/source/MenuState.hx",
+		"/home/eric/prog/proj/mine/FlixelBird/Project.xml",
+		"/home/eric/prog/proj/mine/FlixelBird/source/MenuItem.hx",
+		"/home/eric/prog/proj/mine/FlixelBird/source/Main.hx",
+		"/home/eric/prog/proj/mine/FlixelBird/assets/images/spritesheet2.json",
+		"/home/eric/prog/proj/mine/FlixelBird/assets/images/spritesheet.json",
+		"/usr/lib/haxe/std/flash/display/Sprite.hx",
+		"/home/eric/prog/proj/mine/FlixelBird/spritesheet",
+		"/usr/lib/haxe/std/flash/display/ShaderParameter.hx",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/Editors/TexturePackerAtlas/source/MenuState.hx",
+		"/home/eric/Downloads/oGW6oloX.html",
+		"/home/eric/brogue-1.7.3/Makefile",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/Editors/TexturePackerAtlas/assets/test-trim-rotation.json",
+		"/home/eric/prog/proj/mine/FlixelBird/assets/data/spritesheet.json",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/Other/FlxPongApi/source/MenuState.hx",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/Flixel Features/FlxNape/source/Shooter.hx",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/Flixel Features/FlxNape/source/Main.hx",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/User Interface/Cursor/source/MenuState.hx",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/User Interface/Cursor/Cursor.hxproj",
+		"/usr/lib/haxe/lib/flixel-demos/1,1,1/User Interface/Cursor/source/Main.hx",
+		"/home/eric/prog/proj/mine/HelloHaxeFlixel/source/MenuState.hx",
+		"/home/eric/prog/proj/mine/HelloFlixel/source/MenuState.hx",
+		"/home/eric/prog/proj/mine/HelloHaxeFlixel/source/AssetPaths.hx",
+		"/home/eric/prog/proj/mine/HelloHaxeFlixel/HelloHaxeFlixel.sublime-project"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"vs",
+			"setdir",
+			"runFire",
+			"_up",
+			"update",
+			"class",
+			"register",
+			"sprite",
+			"_player",
+			"localObject1",
+			"localObject2",
+			"localOb",
+			"SwitchMap",
+			"???",
+			"localString",
+			"localString;",
+			"arrayOfString;1",
+			"???",
+			"?aw",
+			"\\?(\\w+)",
+			"?air",
+			"?nger",
+			"\\?(\\w+)",
+			"?re",
+			"?nd",
+			"\\?(\\w+)",
+			"?oor",
+			"?foor",
+			"\\?(\\w+)",
+			"?elds",
+			"\\?(\\w+)",
+			"\\?\\w+",
+			"/(?<!\\w)\\?\\w+/",
+			"?\\w+",
+			"/(?<!\\w)?\\w+/",
+			"?*",
+			"setFormat",
+			"follow",
+			"$:/themes/tiddlywiki/snowwhite",
+			"css",
+			"vanilla",
+			"anim",
+			"switch",
+			"splash",
+			"addon"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mario",
+			"sprite",
+			"localString",
+			"flaw",
+			"fi\\1",
+			"flair",
+			"finger",
+			"fire",
+			"find",
+			"floor",
+			"fi\\1",
+			"fi\\w+"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/PlayState.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1361,
+								1361
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/Enemy.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/Player.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "source/Entity.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								732,
+								732
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 319.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "LD30.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"source/OptionsMenu.hx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 575.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 148.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
